@@ -9,6 +9,9 @@ Matéria que menos gosto: Inovação Técnologica e Emprededorismo
 Medalhista Brasileiro e Paranaense de Matemática
 Conclusão TOFAS niveis 1 e 2
 
+### Objetivo 
+Cursar Engenharia de Software 
+Se tornar programador Full-Stack 
 
 
 
