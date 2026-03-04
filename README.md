@@ -1,5 +1,5 @@
 # Eu sou o Victor
-sou aluno do 2°ano do curso de Desenvolvimento de Sistemas
+ ## Sou aluno do 2°ano do curso de Desenvolvimento de Sistemas
 
 ### Programação 
 - Matéria favorita: Programação Front-End
