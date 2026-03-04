@@ -4,7 +4,7 @@
 ### Programação 
 - Matéria favorita: Programação Front-End
 
-- Matéria que menos gosto: Inovação Técnologica e Emprededorismo
+- Matéria que menos gosto: Inovação Técnologica e Empreendedorismo
 
 ### Conquistas 
 - Medalhista Brasileiro e Paranaense de Matemática
